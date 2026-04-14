@@ -200,9 +200,9 @@ MyDrive/AI_project/aqi_dataset/AQI Bangladesh.csv
 ```
 
 3. Open and run the notebook:
-```
+
 [AQI_Prediction_ML.ipynb](https://colab.research.google.com/drive/1Dt_zJe5hFttM_Jhvuuf2xUTTO7N7xEAT?usp=sharing)
-```
+
 
 The notebook will load the dataset, filter for Sylhet, perform EDA, find the best K, train the KNN model, and display all visualizations sequentially.
 
